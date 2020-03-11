@@ -96,7 +96,7 @@ Then, right _before_ the `<h1>` tag we've added in the previous step, add an SVG
 
 ```html
 <svg>
-  <g id="states"></g>
+  <g> id="states"></g>
 </svg>
 ```
 
